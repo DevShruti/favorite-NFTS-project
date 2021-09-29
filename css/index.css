@@ -28,7 +28,7 @@ h3 {
 }
 
 h1 {
-  font-size: 120px;
+  font-size: 100px;
   line-height: 0.8;
 }
 
@@ -64,7 +64,7 @@ a:focus {
 .hero {
   text-align: left;
   padding: 14rem 0 25rem;
-  background-image: url("../img/moon.jpg");
+  background-image: url("../img/mona_lisa.jpg");
   background-size: cover;
 }
 
